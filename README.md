@@ -80,8 +80,53 @@
 </table>
 <br/>
 
-# 기능 정의서
-# [기능 정의서](https://docs.google.com/spreadsheets/d/1GyhSdizAc_mKuu_jn3LiYD9yki2tpgDF2tIXBE6shh0/edit?usp=sharing)
+## [기능 정의서](https://docs.google.com/spreadsheets/d/1GyhSdizAc_mKuu_jn3LiYD9yki2tpgDF2tIXBE6shh0/edit?usp=sharing)
+## [API 명세](https://docs.google.com/spreadsheets/d/1GyhSdizAc_mKuu_jn3LiYD9yki2tpgDF2tIXBE6shh0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1GyhSdizAc_mKuu_jn3LiYD9yki2tpgDF2tIXBE6shh0/edit?usp=sharing)
+## [화면 설계서](https://www.figma.com/design/bPH7YyiRWYclDMpJbxT2zb/Studyming?node-id=0-1&t=mG50EjOrFCx8irmo-1)
+## [ERD](https://www.erdcloud.com/d/BZx5MLdTEuL4ALwRz)
+## [아키텍처 다이어그램]()
+<br/>
+
+# 사용 기술 스택  
+
+## 🖥 Front-end  
+- **React** v19.0.0  
+- **사용 라이브러리**  
+  - `axios`  
+  - `redux`, `@reduxjs/toolkit`  
+  - `styled-components`  
+  - `socket.io-client`  
+  - `slick-carousel`  
+  - `react-router-dom`  
+
+## 🛠 Back-end  
+- **Node.js** v20.15.1  
+- **사용 라이브러리**  
+  - `Sequelize`  
+  - `express`  
+  - `nodemailer`  
+  - `node-cron`  
+  - `axios`  
+  - `socket.io`  
+
+## 🗄 Database  
+- **MySQL** v8.0.36  
+
+## 🐍 추가 Python 서비스  
+- **Flask 기반 서비스**  
+- **사용 라이브러리**  
+  - `flask`, `flask-cors`  
+  - `captcha`  
+  - `mysql-connector-python`  
+  - `python-dotenv`, `dotenv`  
+
+## ☁ Deploy (배포)  
+- **AWS**  
+  - Node.js 백엔드 배포 (Ubuntu Linux)  
+  - MySQL (RDS)  
+- **Netlify**  
+  - React 프론트엔드 배포  
+
 
 
 
