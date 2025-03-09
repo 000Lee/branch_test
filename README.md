@@ -80,15 +80,15 @@
 </table>
 <br/>
 
-## [기능 정의서](https://docs.google.com/spreadsheets/d/1GyhSdizAc_mKuu_jn3LiYD9yki2tpgDF2tIXBE6shh0/edit?usp=sharing)
+### [기능 정의서](https://docs.google.com/spreadsheets/d/1GyhSdizAc_mKuu_jn3LiYD9yki2tpgDF2tIXBE6shh0/edit?gid=0#gid=0)
 
-## [API 명세서](https://docs.google.com/spreadsheets/d/1GyhSdizAc_mKuu_jn3LiYD9yki2tpgDF2tIXBE6shh0/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1GyhSdizAc_mKuu_jn3LiYD9yki2tpgDF2tIXBE6shh0/edit?usp=sharing)
+### [API 명세서](https://docs.google.com/spreadsheets/d/1GyhSdizAc_mKuu_jn3LiYD9yki2tpgDF2tIXBE6shh0/edit?gid=1039081252#gid=1039081252)
 
-## [화면 설계서](https://www.figma.com/design/bPH7YyiRWYclDMpJbxT2zb/Studyming?node-id=0-1&t=mG50EjOrFCx8irmo-1)
+### [화면 설계서](https://www.figma.com/design/bPH7YyiRWYclDMpJbxT2zb/Studyming?node-id=0-1&t=mG50EjOrFCx8irmo-1)
 
-## [ERD](https://www.erdcloud.com/d/BZx5MLdTEuL4ALwRz)
+### [ERD](https://www.erdcloud.com/d/BZx5MLdTEuL4ALwRz)
 
-## [아키텍처 다이어그램]()
+### [아키텍처 다이어그램]()
 
 <br/>
 
@@ -125,7 +125,7 @@
   - `mysql-connector-python`  
   - `python-dotenv`, `dotenv`  
 
-## ☁ Deploy (배포)  
+## ☁ Deploy
 - **AWS**  
   - Node.js 백엔드 배포 (Ubuntu Linux)  
   - MySQL (RDS)  
