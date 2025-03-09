@@ -6,13 +6,13 @@
 <br/>
 
 # 개발기간
----
+
 25.01.31 ~ 25.03.06
 
 <br/>
 
 # 소개
----
+
 *혼자하는 공부가 아닌 "같이하는 공부"*
 
 우리는 공부를 보다 효과적으로 실천 할 수 있도록 돕는 스터디 플랫폼을 개발했습니다.
@@ -78,8 +78,10 @@
     </td>
   </tr>
 </table>
+<br/>
 
-
+# 기능 정의서
+# [기능 정의서](https://docs.google.com/spreadsheets/d/1GyhSdizAc_mKuu_jn3LiYD9yki2tpgDF2tIXBE6shh0/edit?usp=sharing)
 
 
 
